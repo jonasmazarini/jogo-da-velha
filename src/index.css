@@ -24,16 +24,16 @@ ul {
   background: #5c1da3;
   border: 8px solid black;
   float: left;
-  font-size: 180px;
+  font-size: 80px;
   font-weight: bold;
   color: #FFFFFF;
   line-height: 100px;
-  height: 200px;
+  height: 120px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 200px;
+  width: 120px;
 }
 
 .square:focus {
@@ -47,16 +47,16 @@ ul {
 .game {
   display: flex;
   flex-direction: row;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: bold;
 }
 
 .botao{
-  font-size: 30px;
+  font-size: 20px;
   color: #FFFFFF;
   border: 2px solid black;
   background-color: #5c1da3;
-  width: 800px;
+  width: 500px;
 }
 
 .game-info {
